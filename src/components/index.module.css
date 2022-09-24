@@ -52,3 +52,7 @@
   max-width: none;
   line-height: var(--line-height-loose);
 }
+
+.backgroundImage {
+  background-image: url('../images/andrew-lancaster-k34a6Yzt6A0-unsplash.jpg');
+}
